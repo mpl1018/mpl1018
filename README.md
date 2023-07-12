@@ -1,4 +1,4 @@
-![Marco's GitHub stats](https://dev-card-mpl1018.vercel.app/api?username=mp&show_icons=true&theme=radical&custom_title=My%20work%20at%20Pullpo.io%20%F0%9F%90%99&custom_subtitle=as%20founder%20and%20fullstack%20dev&card_height=700&hide_rank=false)
+![Marco's GitHub stats](https://dev-card-mpl1018.vercel.app/api?username=m&show_icons=true&theme=radical&custom_title=My%20work%20at%20Pullpo.io%20%F0%9F%90%99&custom_subtitle=as%20founder%20and%20fullstack%20dev&card_height=700&hide_rank=false)
 
 <!--
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpl1018&show_icons=true)
