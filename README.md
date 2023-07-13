@@ -1,4 +1,4 @@
-![Marco's GitHub stats](https://devcard.pullpo.io/api?user_id=mpl1018&show_icons=true&theme=radical&custom_title=My%20contributions%20at%20Pullpo.io%20%F0%9F%90%99&custom_subtitle=as%20founder%20and%20fullstack%20dev&image_url=https://lh3.googleusercontent.com/u/1/drive-viewer/AITFw-zuVrfjr9pKtrOoaj7k3Ss-FL86JhYrkn-ClXhNMt84XICt27AFwB9FCIIt80d_Ib2T06h4IB513SwT_FRCa1Ny_zkydQ=w1920-h918&card_width=490)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfutd7di09ls73b6c2p0&custom_title=Marco%20Pati%C3%B1o%20%40%20Pullpo&custom_subtitle=Founder%20%26%20Developer&show_icons=true&disable_animations=false&title_color=fc418d&text_color=a9fef7&icon_color=f8d847&ring_color=fc418d&bg_color=0,141321,3d3b4a&image_url=https%3A%2F%2Flh3.googleusercontent.com%2Fu%2F1%2Fdrive-viewer%2FAITFw-zuVrfjr9pKtrOoaj7k3Ss-FL86JhYrkn-ClXhNMt84XICt27AFwB9FCIIt80d_Ib2T06h4IB513SwT_FRCa1Ny_zkydQ%3Dw1920-h918)](https://pullpo.io/products/devcard)
 
 <!--
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpl1018&show_icons=true)
