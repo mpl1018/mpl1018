@@ -1,4 +1,4 @@
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfutd7di09ls73b6c2p0&custom_title=Marco%20Pati%C3%B1o%20%40%20Pullpo&custom_subtitle=Founder%20%26%20Developer&show_icons=true&disable_animations=false&title_color=fc418d&text_color=a9fef7&icon_color=f8d847&ring_color=fc418d&bg_color=0,141321,3d3b4a&image_url=https%3A%2F%2Flh3.googleusercontent.com%2Fu%2F1%2Fdrive-viewer%2FAITFw-zuVrfjr9pKtrOoaj7k3Ss-FL86JhYrkn-ClXhNMt84XICt27AFwB9FCIIt80d_Ib2T06h4IB513SwT_FRCa1Ny_zkydQ%3Dw1920-h918)](https://pullpo.io/products/devcard)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cfutd7di09ls73b6c2p0&custom_title=Marco%20%40%20Pullpo.io&custom_subtitle=Co-founder%20and%20CEO&show_icons=true&disable_animations=false&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&ring_color=a9fef7&bg_color=141321&image_url=https%3A%2F%2Fblog.pullpo.io%2Fcontent%2Fimages%2F2023%2F02%2FXMLID_00000142874927505364633780000011661982994286897807_-2.png)](https://pullpo.io/products/devcard)
 
 <!--
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpl1018&show_icons=true)
